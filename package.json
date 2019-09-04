@@ -1,0 +1,25 @@
+{
+  "name": "kpi",
+  "version": "1.0.0",
+  "description": "exampels from kpi course",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^6.3.0",
+    "jest": "^24.9.0"
+  },
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinogradov-am/kpi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinogradov-am/kpi/issues"
+  },
+  "homepage": "https://github.com/vinogradov-am/kpi#readme"
+}
