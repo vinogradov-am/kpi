@@ -8,7 +8,9 @@
 function average(a, b) {
   let count = 0;
   let sum = 0;
-  for (let i = a; i <= b; i++) {
+  const MAX = Math.max(a, b);
+  const MIN = Math.min(a, b);
+  for (let i = MIN; i <= MAX; i++) {
     count++;
     sum += i;
   }
