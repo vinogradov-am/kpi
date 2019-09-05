@@ -1,5 +1,5 @@
 'use strict';
-const { average, square, cube } = require('../functions');
+const { average, square, cube } = require('../../exercises-01/functions');
 test('average 0,100 = 50', () => {
   expect(average(0, 100)).toBe(50);
 });
