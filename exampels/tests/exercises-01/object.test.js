@@ -1,5 +1,5 @@
 'use strict';
-const createUser = require('../object');
+const createUser = require('../../exercises-01/object');
 test('test function createUser form object.js.', () => {
   const EXP_OBJ = {
     name: 'Marcus Airelius',
