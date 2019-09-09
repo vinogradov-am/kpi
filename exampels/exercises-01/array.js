@@ -1,7 +1,7 @@
 'use strict';
 const phoneBook = [
   { name: 'Marcus Aurelius', phone: '+79654874521' },
-  { name: 'Gaius Octavius', phone: '+79654874158' },
+  { name: 'Gaius Octavius', phone: '+79654874158' }
 ];
 /**
  *
@@ -16,4 +16,3 @@ const findPhoneByName = name => {
 };
 
 module.exports = findPhoneByName;
-

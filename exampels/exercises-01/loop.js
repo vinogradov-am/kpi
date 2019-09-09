@@ -8,6 +8,3 @@ function range(start, end) {
   }
 }
 range(10, 90);
-
-
-
